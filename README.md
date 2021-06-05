@@ -1,6 +1,6 @@
-# Classroom Bulk Reuse
+# MisterClass
 
-![Classroom Bulk Reuse Icon](https://cbr.rubhiauliatirta.com/mrc.ico)
+![MisterClass Icon](https://cbr.rubhiauliatirta.com/mrc.ico)
 
 Web application for reuse multiple assignment in your google classroom.
 
