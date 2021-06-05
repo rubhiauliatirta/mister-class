@@ -24,3 +24,6 @@ Demo Video: [link](https://drive.google.com/file/d/1R4vIYyhZ15FDN2838E9cj6B__AkU
 - googleapis
 - redis
 - jsonwebtoken
+- heroku
+- Amazon S3
+- Cloudflare
